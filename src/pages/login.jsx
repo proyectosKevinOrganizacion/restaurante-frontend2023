@@ -7,6 +7,7 @@ function Login() {
   return (
     <>
       <h3>Hola mundo</h3>
+      <h2>Nuevo cambio </h2>
     </>
   )
 }
